@@ -1,1 +1,1 @@
-main contract is citizensofoverworld.sol
+main contract is CitizensOfOverworld.sol
